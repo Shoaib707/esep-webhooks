@@ -1,0 +1,7 @@
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/EsephWebhook.deps.json
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/EsephWebhook.runtimeconfig.json
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/EsephWebhook.pdb
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Core.dll
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/Amazon.Lambda.Serialization.Json.dll
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/Newtonsoft.Json.dll
+/Users/shoaibchaudhry/Documents/event-driver/esep-webhooks/EsephWebhook/src/EsephWebhook/bin/Release/net8.0/publish/EsephWebhook.dll

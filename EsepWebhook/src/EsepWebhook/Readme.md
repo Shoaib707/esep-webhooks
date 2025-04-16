@@ -38,12 +38,12 @@ If already installed check if new version is available.
 
 Execute unit tests
 ```
-    cd "EsepWebhook/test/EsepWebhook.Tests"
+    cd "EsephWebhook/test/EsephWebhook.Tests"
     dotnet test
 ```
 
 Deploy function to AWS Lambda
 ```
-    cd "EsepWebhook/src/EsepWebhook"
+    cd "EsephWebhook/src/EsephWebhook"
     dotnet lambda deploy-function
 ```
